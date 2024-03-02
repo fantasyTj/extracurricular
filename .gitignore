@@ -1,0 +1,6 @@
+*.zip
+*.npy
+*.pickle
+*.pth
+*.h5
+*.gz
